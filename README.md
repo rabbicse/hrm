@@ -15,7 +15,7 @@ The system follows a **modular monolith to microservices-ready** approach with c
 
 ## Tech Stack
 
-* Java 17
+* Java 21
 * Spring Boot
 * Maven (Multi-module)
 * PostgreSQL / MySQL
