@@ -16,7 +16,7 @@ The system follows a **modular monolith to microservices-ready** approach with c
 ## Tech Stack
 
 * Java 21
-* Spring Boot
+* Spring Boot 3
 * Maven (Multi-module)
 * PostgreSQL / MySQL
 * Docker & Docker Compose
@@ -109,9 +109,8 @@ hrm-system/
 
 ## License
 
-[MIT License](LICENSE)
+[GNU General Public License v3.0](LICENSE)
 
 ---
 
 **Developed with ❤️ using Java and Spring Boot.**
-
